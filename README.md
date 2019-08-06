@@ -7,3 +7,6 @@ You may assume that each input would have exactly one solution, and you may not 
 
 7. Reverse Integer
 Given a 32-bit signed integer, reverse digits of an integer.
+
+9. Palindrome Number
+Determine whether an integer is a palindrome. An integer is a palindrome when it reads the same backward as forward.
