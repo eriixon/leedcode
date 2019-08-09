@@ -3,3 +3,10 @@
 .vscode/tasks.json
 .vscode/extensions.json
 .vscode/launch.json
+.idea/*
+.idea/vcs.xml
+.idea/misc.xml
+.idea/workspace.xml
+.idea/vcs.xml
+.idea/modules.xml
+.idea/leedcode.iml
