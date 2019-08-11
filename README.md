@@ -10,3 +10,6 @@ Given a 32-bit signed integer, reverse digits of an integer.
 
 9. Palindrome Number
 Determine whether an integer is a palindrome. An integer is a palindrome when it reads the same backward as forward.
+
+14. Longest Common Prefix
+Write a function to find the longest common prefix string amongst an array of strings. If there is no common prefix, return an empty string "".
