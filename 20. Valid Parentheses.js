@@ -18,11 +18,9 @@ var isValid = function(s) {
          if (c in pmap){
             let topElement = stack.length === 0 ? '#' : stack.pop();
             if (topElement != pmap[c]) return false;
-        } else {
-            stack.push(c);
-        }
+        } else stack.push(c);
     }
     return stack.length === 0;
 };
 
-isValid('()')
+isValid('{((()))[]}}}')
