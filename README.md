@@ -16,3 +16,6 @@ Write a function to find the longest common prefix string amongst an array of st
 
 20. Valid Parentheses
 Given a string containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid.
+
+21. Merge Two Sorted Lists
+Merge two sorted linked lists and return it as a new list. The new list should be made by splicing together the nodes of the first two lists.
